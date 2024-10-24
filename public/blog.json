@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co.com/2ysBFSK/blog-cover.jpg",
+      "author_name": "John Doe",
+      "title": "Understanding JavaScript Closures",
+      "read_time": 7,
+      "author_profile_img": "https://i.ibb.co.com/n7QSHkq/user.jpg",
+      "hashtag": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co.com/2ysBFSK/blog-cover.jpg",
+      "author_name": "Jane Smith",
+      "title": "Mastering CSS Grid in 10 Minutes",
+      "read_time": 10,
+      "author_profile_img": "https://i.ibb.co.com/n7QSHkq/user.jpg",
+      "hashtag": ["#CSS", "#Frontend", "#WebDesign"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co.com/2ysBFSK/blog-cover.jpg",
+      "author_name": "Alice Johnson",
+      "title": "A Deep Dive into React Hooks",
+      "read_time": 12,
+      "author_profile_img": "https://i.ibb.co.com/n7QSHkq/user.jpg",
+      "hashtag": ["#React", "#JavaScript", "#Frontend"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co.com/2ysBFSK/blog-cover.jpg",
+      "author_name": "Michael Brown",
+      "title": "Async JavaScript: Promises and Async/Await Explained",
+      "read_time": 8,
+      "author_profile_img": "https://i.ibb.co.com/n7QSHkq/user.jpg",
+      "hashtag": ["#JavaScript", "#Async", "#WebDevelopment"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co.com/2ysBFSK/blog-cover.jpg",
+      "author_name": "Emily Davis",
+      "title": "Exploring the Power of Flexbox in CSS",
+      "read_time": 9,
+      "author_profile_img": "https://i.ibb.co.com/n7QSHkq/user.jpg",
+      "hashtag": ["#CSS", "#Flexbox", "#Frontend"]
+    }
+  ]
+  
